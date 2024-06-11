@@ -11,5 +11,6 @@ import './styles.css'
 ReactDOM.createRoot(document.getElementById('root')).render( //El id debe ser igual al que esta en el div del index
     <React.StrictMode>
         <CounterApp value={ 0 }/> 
+        {/* <FirstApp title='Hola soy Jahir' /> */}
     </React.StrictMode>
 )/*Se escribre el nombre de la funcion*/
